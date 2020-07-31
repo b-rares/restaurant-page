@@ -1,0 +1,21 @@
+* {
+  overflow: hidden;
+  border: none;
+  margin: none;
+  text-decoration: none;
+  background-color: black;
+}
+
+.a-container {
+  top: 0;
+  right: 60px;
+}
+
+a {
+  cursor: pointer;
+  text-decoration: none;
+  color: white;
+  font-size: 36px;
+  display: flex;
+  flex-direction: row;
+}
